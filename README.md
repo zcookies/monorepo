@@ -12,6 +12,7 @@ pnpm --filter {packages/main} dev
 
 ### 结构
 
+```bash
 monorepo
 ├─.npmrc
 ├─package.json
@@ -50,3 +51,4 @@ monorepo
 |    |  ├─vite.config.ts
 |    |  ├─src
 |    |  ├─public
+```
